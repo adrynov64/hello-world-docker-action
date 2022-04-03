@@ -1,2 +1,1 @@
-FROM alpine
-
+FROM alpine:V1.0.0
